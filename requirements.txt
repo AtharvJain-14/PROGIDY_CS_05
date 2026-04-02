@@ -1,1 +1,4 @@
-scapy>=2.5.0
+Python     : 3.9 or newer
+Scapy	     : ≥ 2.5.0
+OS         : Linux, macOS, Windows (WSL2 recommended on Windows)
+Privileges : Root / Administrator required for raw socket access
